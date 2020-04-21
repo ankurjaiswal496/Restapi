@@ -1,0 +1,9 @@
+POST  http://localhost:3000/hotel
+Content-Type: application/json
+
+{
+    "name":"ank1u13r1123",
+    "modeofvisit":"hello"
+}
+###
+GET http://localhost:3000/localhost:3000/hotel
